@@ -1,0 +1,13 @@
+
+f
+java:S1128"DRemove this unused import 'com.example.orders.client.ProductClient'.(áË¢ñùÿÿÿÿ8©–³Šæ0
+[
+java:S1128">Remove this unused import 'com.example.orders.dto.ProductDTO'.(²ËÔ8ª–³Šæ0
+a
+java:S1128"DRemove this unused import 'com.example.orders.dto.ProductHeaderDTO'.(¦á¼8ª–³Šæ0
+Y
+java:S1128	"<Remove this unused import 'jakarta.ws.rs.NotFoundException'.(ÈÂ¹·8ª–³Šæ0
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ª–³Šæ0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ª–³Šæ0

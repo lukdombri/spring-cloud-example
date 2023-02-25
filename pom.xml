@@ -15,6 +15,7 @@
         <module>mongoDemo</module>
         <module>orders</module>
         <module>product</module>
+        <module>leader-selection</module>
     </modules>
 
     <properties>

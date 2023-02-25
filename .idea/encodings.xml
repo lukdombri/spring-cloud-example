@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leader-election/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leader-selection/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mongoDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mongoDemo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/orders/src/main/java" charset="UTF-8" />

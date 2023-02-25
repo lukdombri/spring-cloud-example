@@ -7,12 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="api-gateway" />
         <module name="config-server" />
+        <module name="leader-election" />
         <module name="product" />
+        <module name="eureka" />
+        <module name="api-gateway" />
         <module name="orders" />
         <module name="spring-cloud-example" />
-        <module name="eureka" />
       </profile>
       <profile name="Annotation profile for spring-cloud-example" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -26,12 +27,17 @@
         <module name="mongoDemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leader-selection" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api-gateway" options="-parameters" />
       <module name="config-server" options="-parameters" />
       <module name="eureka" options="-parameters" />
+      <module name="leader-election" options="-parameters" />
+      <module name="leader-selection" options="-parameters" />
       <module name="mongoDemo" options="-parameters" />
       <module name="orders" options="-parameters" />
       <module name="product" options="-parameters" />
